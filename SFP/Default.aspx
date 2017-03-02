@@ -4,9 +4,8 @@
 
   <!--<div class="parallax"></div>-->
 
-  <!--#include virtual="includes/carousel.html" -->
   <!--#include virtual="includes/jumbotron.html" -->
-
+  <!--#include virtual="includes/carousel.html" -->
 
     <div class="row">
         <div class="col-md-4">

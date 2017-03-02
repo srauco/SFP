@@ -76,7 +76,11 @@
                 </div>
             </div>
         </div>
-        <div class="container body-content">
+      
+      <div class="parallax"></div>
+
+
+        <div class="container body-content" style="position:relative; top: -500px">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />

@@ -217,6 +217,12 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="images\1.jpg" />
+    <Content Include="images\2.jpg" />
+    <Content Include="images\3.jpg" />
+    <Content Include="images\4.jpg" />
+    <Content Include="images\5.jpg" />
+    <Content Include="images\img_parallax.jpg" />
     <Content Include="includes\carousel.html" />
     <Content Include="includes\jumbotron.html" />
     <Content Include="Scripts\bootstrap.js" />
@@ -470,7 +476,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="images\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
